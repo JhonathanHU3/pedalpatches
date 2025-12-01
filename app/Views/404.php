@@ -1,2 +1,2 @@
-<?php 
-  echo "404: Página não encontrada!";
+<?php
+echo "404: Página não encontrada!";
